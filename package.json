@@ -1,0 +1,27 @@
+{
+  "name": "dex-project",
+  "version": "1.0.0",
+  "description": "Project demonstrating the architecture and functionality of a decentralized ERC-20 exchange",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rudnickandrew/dex-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rudnickandrew/dex-project/issues"
+  },
+  "homepage": "https://github.com/rudnickandrew/dex-project#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.3.0",
+    "@openzeppelin/test-helpers": "^0.5.10"
+  }
+}
