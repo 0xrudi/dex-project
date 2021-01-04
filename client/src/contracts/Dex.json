@@ -25624,12 +25624,12 @@
         }
       },
       "links": {},
-      "address": "0x3c0AF5d42FB3Ad9051DD004C44F2FA48A5252a4B",
-      "transactionHash": "0xe8cfb28033bb82a3f169dca63e76257fa23725441bce2779a3db49f787c25baa"
+      "address": "0x6174fdF6FD9C2AB499b87F3A5A8a232755309B85",
+      "transactionHash": "0x479bd193201bef403ef0f218266adc5d0d65f18e46a2d6598f9d2e83f12c8520"
     }
   },
   "schemaVersion": "3.2.1",
-  "updatedAt": "2021-01-02T23:09:35.098Z",
+  "updatedAt": "2021-01-04T17:38:14.396Z",
   "networkType": "ethereum",
   "devdoc": {
     "methods": {}

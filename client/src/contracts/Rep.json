@@ -1029,12 +1029,12 @@
         }
       },
       "links": {},
-      "address": "0x7AC5A4E0136a98632E616FE2DA3343A38fc79746",
-      "transactionHash": "0x64e79b92d0f92f66c940ef92069ab5abe25d658a0fe5f6e2b88ef0901a3607ac"
+      "address": "0x6c12a3F10EC029EA152a9776782A85406fda583d",
+      "transactionHash": "0x6f1689792f1706096f1a74d5ba8a5a5889e3052e04dccdeadb0348b9f3e6b446"
     }
   },
   "schemaVersion": "3.2.1",
-  "updatedAt": "2021-01-02T23:09:35.091Z",
+  "updatedAt": "2021-01-04T17:38:14.389Z",
   "networkType": "ethereum",
   "devdoc": {
     "methods": {
