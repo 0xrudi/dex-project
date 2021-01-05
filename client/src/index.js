@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import LoadingContainer from './LoadingContainer.js';
 import './scss/index.scss';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(<LoadingContainer />, document.getElementById('root'));
