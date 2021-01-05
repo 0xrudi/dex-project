@@ -28,7 +28,7 @@ function LoadingContainer() {
     }
 
     if(!isReady()) {
-        return <div>Loading...</div>
+        return <div>Loading...</div>;
     }
 
     return(
@@ -37,7 +37,7 @@ function LoadingContainer() {
             accounts={accounts}
             contracts={contracts}
         />
-    )
+    );
 }
 
 export default LoadingContainer;

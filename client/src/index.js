@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
 import LoadingContainer from './LoadingContainer.js';
+import './scss/index.scss';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(<LoadingContainer />, document.getElementById('root'));
